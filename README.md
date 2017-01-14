@@ -8,9 +8,9 @@ Models:
 
 ### Trained models
 
-### aac.lua, episode length = 10, 20x1000 episodes, training time is 15 mins (8 CPUs, Titan X)
+#### aac.lua, episode length = 10, 20x1000 episodes, training time is 15 mins (8 CPUs, Titan X)
 [![Doom-net trained on rocket config](images/basic.png)](https://youtu.be/Ej-5UgjVJEs)
 
-### aac-lstm.lua, episode length = 20, 40x2000 episodes, training time is 3 hours (8 CPUs, Titan X)
+#### aac-lstm.lua, episode length = 20, 40x2000 episodes, training time is 3 hours (8 CPUs, Titan X)
 [![Doom-net trained on rocket config](images/rocket.png)](https://youtu.be/8hQO5VzsnkI)
 
